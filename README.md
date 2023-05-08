@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-assignment-java
+<br>
+Write a program called Assignment4 (saved in a file Assignment4.java) that reads in a sequence of positive integers until a user enters -1 to quit (we don’t know how many numbers the user may enter) The loop continues to ask for user input until the user enters negative one: Enter a positive integer. Enter -1 to quit. For each positive integer, check if it is a prime number or not. If it is prime then print out: The number X is a prime number.
